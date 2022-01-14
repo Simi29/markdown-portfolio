@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+# HERE IS MY LIST OF THINGS I LIKE
+* horse riding
+* ski
+* have fun
+  * partying
+  * going out with friends
+  * playing board games
